@@ -21,7 +21,7 @@ function App() {
           </a>
           <a
             style={{ color: "white" }}
-            href="https://linkedin.com/in/marrenthomas/"
+            href="https://linkedin.com/in/marrenthomas"
           >
             <img
               src={linkedin}
